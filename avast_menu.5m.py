@@ -26,11 +26,9 @@ for table in menu_lxml.xpath("//div[@class='row'][1]//table"):
 	 	if n < 2:
 	 		prefix = "[P] "
 	 		color = "green"
-	 		# print("[P] ", end="")
 	 	if n == len(table) - 1:
 	 		prefix = "[S] "
 	 		color = "blue"
-	 		# print("[S] ", end="")
 	 	colorcode = " | color=" + color
 	 	print(prefix,item.strip(),colorcode)
 	 	n = n + 1
