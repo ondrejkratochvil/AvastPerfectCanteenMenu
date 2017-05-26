@@ -8,7 +8,7 @@ You'll also need Python 2.7.*, but that's probably part of your macOs
 
 ---
 
-Then you'll need homebrew and then:
+Then you'll need homebrew (https://brew.sh) and then:
 
 > brew install libxml2
 
