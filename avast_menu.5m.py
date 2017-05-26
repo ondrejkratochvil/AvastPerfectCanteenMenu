@@ -11,7 +11,7 @@ import lxml.html
 import sys
 from lxml.html import parse
 
-print("MENU | size=11 color=blue")
+print(" | templateImage=iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADjSURBVDhPlZPBDcIwDEUrWIANYAPYAI4cWYEJWIEVmAA2YAWObAHc4ARMAP+n/iJx3Ug86ctxmv66cTJsSvbQG9pAS+gB3SGxgFbQOWVgYFHwIRfNoIlFwfkjNE2Z4Q1qsLpRO/wRGcwhfj1frIo6RAYslYsZRT4u8AYvi8LnHbzBGrpCfPEAnaAq3oAv7NphMvu7AsLN87vNalgZuVnshb3+QN6EneB8saFRBSI/RERtLOYjAy3wfVdeVBYZhAuBjnD1KOdf9QbKq7+Qt21sUfhf6oWX5gL548ub+oS2KUs0zRdBnB51d7aUvQAAAABJRU5ErkJggg==")
 print("---")
 
 i = 0
