@@ -22,4 +22,4 @@ And after you add .py file into Bitbar directory, you'll need to give it executa
 
 ---
 
-That's it. Enjoy
+That's it. Enjoy...
